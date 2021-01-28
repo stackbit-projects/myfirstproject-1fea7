@@ -6,20 +6,16 @@ sections:
     section_id: Home
     background_image: images/Hero_Kitchen-910x600.jpg
     background_image_opacity: 70
-    content: >+
+    content: >
+      WELCOME TO REEF
 
 
-      WELCOME TO REEF 
+      # Connecting the world to your block
 
 
-
-
-      Connecting the world to your block
 
       We transform underutilized urban spaces into neighborhood hubs that
-      connect people to locally curated goods, services and experiences 
-
-
+      connect people to locally curated goods, services, and experiences
     actions:
       - title: See all items
         url: /store
