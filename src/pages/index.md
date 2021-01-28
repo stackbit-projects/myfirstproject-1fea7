@@ -6,11 +6,20 @@ sections:
     section_id: Home
     background_image: images/Hero_Kitchen-910x600.jpg
     background_image_opacity: 70
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >+
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      WELCOME TO REEF 
+
+
+
+
+      Connecting the world to your block
+
+      We transform underutilized urban spaces into neighborhood hubs that
+      connect people to locally curated goods, services and experiences 
+
+
     actions:
       - title: See all items
         url: /store
