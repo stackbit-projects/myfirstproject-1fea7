@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: Home
     background_image: images/Hero_Kitchen-910x600.jpg
-    background_image_opacity: 100
+    background_image_opacity: 70
     content: >-
       # Real, beautiful plants right to your door
 
