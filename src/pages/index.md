@@ -15,7 +15,7 @@ sections:
 
       that connect people to locally curated goods, services, and experiences
     actions:
-      - title: See all items
+      - title: Become our Partner
         url: /store
         arrow: true
         style: primary
